@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local exercise/reference files not needed for deployment
+bak/
+chat with copilot.json
+AI提示词条卡.md
+修改流程表
+和Gpt的问答
+最终提交说明.md
+评分标准.md
+试题要求.md
